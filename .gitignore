@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+transactions_*.csv
+generated_receipts/
+Capture d'écran *.png
