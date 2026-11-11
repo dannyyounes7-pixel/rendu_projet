@@ -1,5 +1,7 @@
 # Mini-projet Data Engineering — Intégration continue
 
+**Réalisé par : Yacine BAKOUR et Nawfel Chakib YOUNES**
+
 ## Présentation
 
 Pipeline data complète partant de fichiers CSV de transactions financières jusqu'à l'insertion en base de données relationnelle, avec stockage objet S3 local et extraction OCR depuis des images.
